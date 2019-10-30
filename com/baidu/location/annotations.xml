@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='com.baidu.location.LocationClient void registerLocationListener(com.baidu.location.BDLocationListener)'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
